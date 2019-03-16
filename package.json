@@ -1,0 +1,23 @@
+{
+  "name": "stimulus-bootstrap",
+  "version": "0.1.0",
+  "description": "Stimulus-Bootstrap",
+  "main": "stimulus-bootstrap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raicheff/stimulus-bootstrap.git"
+  },
+  "keywords": [
+    "stimulus",
+    "bootstrap"
+  ],
+  "author": "Boris Raicheff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raicheff/stimulus-bootstrap/issues"
+  },
+  "homepage": "https://github.com/raicheff/stimulus-bootstrap#readme"
+}
