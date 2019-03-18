@@ -14,31 +14,19 @@ export default class extends Controller {
 
   connect() {
 
-    $(this.element).tooltip();
+    $(this.element).tab();
 
   }
 
   disconnect() {
 
-    $(this.element).tooltip("dispose");
+    $(this.element).tab("dispose");
 
   }
 
   show() {
 
-    $(this.element).tooltip("show");
-
-  }
-
-  hide() {
-
-    $(this.element).tooltip("hide");
-
-  }
-
-  toggle() {
-
-    $(this.element).tooltip("toggle");
+    $(this.element).tab("show");
 
   }
 

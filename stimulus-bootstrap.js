@@ -6,10 +6,12 @@
  */
 
 
+import Tab from "tab";
 import Tooltip from "tooltip";
 
 
 export {
+  Tab,
   Tooltip,
 }
 
