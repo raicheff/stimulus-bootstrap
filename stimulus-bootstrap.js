@@ -6,11 +6,13 @@
  */
 
 
+import ModalController from "modal";
 import Tab from "tab";
 import Tooltip from "tooltip";
 
 
 export {
+  ModalController,
   Tab,
   Tooltip,
 }
